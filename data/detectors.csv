@@ -1,0 +1,7 @@
+# name, effective mass [kton], background rate [Hz]
+icecube,3500.,3.e6
+km3net-orca,90.,1.e6
+km3net-arca,180.,2.e6
+super-kamiokande,22.5,0.
+hyper-kamiokande,560.,0.
+juno,22.5,0.
